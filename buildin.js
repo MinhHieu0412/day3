@@ -13,3 +13,5 @@ const urlObj = {
 
 const urlString = url.format(urlObj)
 console.log(urlString)
+
+console.log(urlString)
